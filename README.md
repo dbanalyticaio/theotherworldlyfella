@@ -7,7 +7,7 @@ Network & System Administrator
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://pinkudaimari.com)
 * ✉️  You can contact me at [info@pinkudaimari.com](mailto:info@pinkudaimari.com)
-* ⚡  Founder & CEO at APEX MEDIA GROUP & OffensiveSecurity.in. I write about system & network administration etc. on my blog. I would call myself security research hobbyist. :P. My work consists of managing virtualization environments, security, customer support, network management and various other things. Outside of work, I enjoy tinkering with various kinds of technology.
+* ⚡  Founder & CEO at APEX MEDIA GROUP & OffensiveSecurity.us. I write about system & network administration etc. on my blog. I would call myself security research hobbyist. :P. My work consists of managing virtualization environments, security, customer support, network management and various other things. Outside of work, I enjoy tinkering with various kinds of technology.
 
 ### Skills
 
